@@ -1,0 +1,1 @@
+﻿Astronomical time conversion for .NET 7.0. Calculate Julian day, local sidereal time and ecliptic obliquity with great precision.
